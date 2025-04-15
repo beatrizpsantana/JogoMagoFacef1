@@ -43,7 +43,7 @@ Para acessar o jogo de forma online basta clicar no link abaixo:
 
 ## Prints de Aplicação
 
-[Prints do Jogo](./prints/215323.png)
+[Prints do Jogo](./Capturadetela2025-04-14/215323.png)
 [Prints do Jogo](215409.png)
 
 [Print da Aplicação no Tiiny Host](215714.png)
