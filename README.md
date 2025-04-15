@@ -9,6 +9,7 @@
 - [Sobre o Projeto](#sobre-o-projeto)  
 - [Como Jogar](#como-jogar)  
 - [Link de Acesso](#link-de-acesso)
+- [Prints de Aplicação](#prints-de-aplicação)
 
 ---
 
@@ -38,5 +39,15 @@ O jogador irá perceber que os monstros vermelhos serão mais difíceis de serem
 Para acessar o jogo de forma online basta clicar no link abaixo:
       [Link aqui](https://gold-annalise-60.tiiny.site/)
 
+---
+
+## Prints de Aplicação
+
+[Prints do Jogo](215323.png)
+[Prints do Jogo](215409.png)
+
+[Print da Aplicação no Tiiny Host](215714.png)
+
+[Print da Aplicação no Banco de Dados](215537.png)
 
 
