@@ -24,7 +24,7 @@ Desenvolvido a partir de aulas explicativas e tutoriais da plataforma Construct3
 
 - **Setas** para mover
 - **Mouse** indica a direção do Mago
-- **Botão** **direito** **do** **mouse** lança poderes
+- **Botão** **esquerdo** **do** **mouse** lança poderes
 
 O Mago deve fugir dos duendes e monstros que aparecerão na tela, ele pode também destruir estes personagens lançando feitiços nos adiversários, porém eles tem quantidades de vidas diferentes!
 O jogador irá perceber que os monstros vermelhos serão mais difíceis de serem destruídos.
