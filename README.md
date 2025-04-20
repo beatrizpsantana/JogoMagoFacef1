@@ -22,9 +22,6 @@ Desenvolvido a partir de aulas explicativas e tutoriais da plataforma Construct3
 
 ## 🕹️ Como Jogar
 
-Explique as mecânicas básicas do jogo e os controles.  
-Exemplo:
-
 - **Setas** para mover
 - **Mouse** indica a direção do Mago
 - **Botão** **direito** **do** **mouse** lança poderes
@@ -42,12 +39,16 @@ Para acessar o jogo de forma online basta clicar no link abaixo:
 ---
 
 ## Prints de Aplicação
-
+Imagens do jogo rodando
 ![Prints do Jogo](TelaJogo.png)
+
+Imagem da Tela de Game Over
 ![Prints do Jogo](TelaGameOver.png)
 
-![Print da Aplicação no Tiiny Host](TelaFirebase.png)
+Imagem da aplicação na plataforma Tiiny Host
+![Print da Aplicação no Tiiny Host](TelaTiiny.png)
 
-![Print da Aplicação no Banco de Dados](TelaTiiny.png)
+Imagem da aplicação no Banco de Dados Firebase
+![Print da Aplicação no Banco de Dados](TelaFirebase.png)
 
 
