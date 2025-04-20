@@ -43,8 +43,8 @@ Para acessar o jogo de forma online basta clicar no link abaixo:
 
 ## Prints de Aplicação
 
-[Prints do Jogo](./JogoMagoFacef1/TelaJogo.png)
-[Prints do Jogo](215409.png)
+[Prints do Jogo](JogoMagoFacef1/TelaJogo.png)
+[Prints do Jogo](JogoMagoFacef1/TelaGameOver.png)
 
 [Print da Aplicação no Tiiny Host](215714.png)
 
