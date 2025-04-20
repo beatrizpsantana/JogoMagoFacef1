@@ -39,16 +39,20 @@ Para acessar o jogo de forma online basta clicar no link abaixo:
 ---
 
 ## Prints de Aplicação
-Imagens do jogo rodando
+Imagem do jogo rodando
+
 ![Prints do Jogo](TelaJogo.png)
 
 Imagem da Tela de Game Over
+
 ![Prints do Jogo](TelaGameOver.png)
 
 Imagem da aplicação na plataforma Tiiny Host
+
 ![Print da Aplicação no Tiiny Host](TelaTiiny.png)
 
 Imagem da aplicação no Banco de Dados Firebase
+
 ![Print da Aplicação no Banco de Dados](TelaFirebase.png)
 
 
